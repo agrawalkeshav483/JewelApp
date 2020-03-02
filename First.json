@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 18644119330491312,
+      "title": "Gold Jewellary",
+      "description": "Nice Gold Jewellary",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 11854078013954528,
+      "title": "Diamond Jewellary",
+      "description": "Nice Diamond Jewellary",
+      "availableSizes": ["X", "M", "L"],
+      "price": 14.9,
+      "isFreeShipping": true
+    },
+  ]
+}
